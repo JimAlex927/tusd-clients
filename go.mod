@@ -1,4 +1,4 @@
-module github.com/jimalex927/tusgo
+module github.com/jimalex927/tusgo-clients
 
 go 1.25.1
 

@@ -10,8 +10,6 @@ import (
 	"os"
 	"sync"
 	"time"
-
-	"github.com/jimalex927/tusgo"
 )
 
 func UploadWithRetry(dst *tusgo.UploadStream, src *os.File) error {

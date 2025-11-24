@@ -6,8 +6,6 @@ import (
 	"net/http"
 	"net/url"
 	"os"
-
-	"github.com/jimalex927/tusgo"
 )
 
 func Example_minimal() {
