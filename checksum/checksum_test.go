@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/jimalex927/tusgo-clients/checksum"
+	"github.com/jimalex927/tusd-clients/checksum"
 )
 
 func ExampleNewHashBase64ReadWriter() {

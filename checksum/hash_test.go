@@ -3,7 +3,7 @@ package checksum_test
 import (
 	"io"
 
-	"github.com/jimalex927/tusgo-clients/checksum"
+	"github.com/jimalex927/tusd-clients/checksum"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 )
