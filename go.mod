@@ -1,4 +1,4 @@
-module github.com/jimalex927/tusd-clients
+module github.com/JimAlex927/tusd-clients
 
 go 1.25.1
 

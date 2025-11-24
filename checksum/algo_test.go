@@ -1,7 +1,7 @@
 package checksum_test
 
 import (
-	"github.com/jimalex927/tusd-clients/checksum"
+	"github.com/JimAlex927/tusd-clients/checksum"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 )
